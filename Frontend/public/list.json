@@ -1,0 +1,99 @@
+[
+    {
+        "id":11,
+        "name":"Harry Potter",
+        "title":"Magical adventure of a young wizard's epic journey",
+        "price":75,
+        "category":"Best",
+        "image":"https://tse1.mm.bing.net/th?id=OIP.Fbp4Vxxwx86GbFQ0_cvF6wHaLQ&pid=Api&P=0&h=180"
+    },
+    {
+        "id":2,
+        "name":"Tales",
+        "title":"Timeless tales of drama, love, and human nature.",
+        "price":60,
+        "category":"Drama",
+        "image":"https://tse3.mm.bing.net/th?id=OIP.Mt8jxaxwFy-2E7IwpI096QHaHa&pid=Api&P=0&h=180"
+    },
+    {
+        "id":3,
+        "name":"Food Book",
+        "title":"Delicious recipes, culinary secrets and adventures.",
+        "price":45,
+        "category":"Diet",
+        "image":"https://tse4.mm.bing.net/th?id=OIP.4PlW8aIRRbjzdKhYgy81pAHaHa&pid=Api&P=0&h=180"
+    },
+    {
+        "id":12,
+        "name":"Physical Sports",
+        "title":"Exploring cricket's history and memorable moments",
+        "price":50,
+        "category":"Best",
+        "image":"https://tse3.mm.bing.net/th?id=OIP.V3CNFg0dYgpumVdJJNSJCQHaHa&pid=Api&P=0&h=180"
+    },
+    {
+        "id":1,
+        "name":"More Tales-1",
+        "title":"Emotional, gripping tales of conflict, and transformation.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/book-standing-wooden-surface_23-2147662316.jpg?t=st=1721058989~exp=1721062589~hmac=991940033762daf6c362e62190070ec4fc390ea060929e2307cdf522df1e01db&w=1060"
+    },
+    {
+        "id":4,
+        "name":"Comedy-1",
+        "title":"Light-hearted, humorous tales that evoke hearty laughter.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/education-concept-with-books-arrangement_23-2149001215.jpg?t=st=1721059098~exp=1721062698~hmac=e8f0a08deaccb1a7b49cb0c42176fd292d28eb5c7fdd356be90c3900f380a00c&w=1060"
+    }, {
+        "id":5,
+        "name":"More Tales-2",
+        "title":"Emotional, gripping tales of conflict, and transformation.",
+        "price":0,
+        "category":"free",
+       "image":"https://img.freepik.com/free-photo/book-standing-wooden-surface_23-2147662316.jpg?t=st=1721058989~exp=1721062589~hmac=991940033762daf6c362e62190070ec4fc390ea060929e2307cdf522df1e01db&w=1060"
+    },
+    {
+        "id":6,
+        "name":"Vampire Stories",
+        "title":"Chilling tales of fear, suspense, and supernatural terror.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/premium-photo/red-book-with-blank-cover-table_92795-281.jpg?w=1060"
+    },
+    {
+        "id":7,
+        "name":"Romantic Stories",
+        "title":"Heartfelt, passionate love stories that stir deep emotions",
+        "price":0,
+        "category":"free",
+         "image":"https://img.freepik.com/free-photo/notebook-with-black-cover_23-2147803582.jpg?t=st=1721058419~exp=1721062019~hmac=993f8406b8f239a59c54be206a35f5cb0649dc140e90dae61485a1ea72c7bdf4&w=1060"
+    },
+    {
+        "id":8,
+        "name":"Comedy-2",
+        "title":"Light-hearted, humorous tales that evoke hearty laughter.",
+        "price":30,
+        "category":"free",
+         "image":"https://img.freepik.com/free-photo/education-concept-with-books-arrangement_23-2149001215.jpg?t=st=1721059098~exp=1721062698~hmac=e8f0a08deaccb1a7b49cb0c42176fd292d28eb5c7fdd356be90c3900f380a00c&w=1060"
+    },
+    {
+        "id":9,
+        "name":"Vampire Stories-2",
+        "title":"Chilling tales of fear, suspense, and supernatural terror.",
+        "price":0,
+        "category":"free",
+       "image":"https://img.freepik.com/premium-photo/red-book-with-blank-cover-table_92795-281.jpg?w=1060"
+    },
+    {
+        "id":10,
+        "name":"Romantic Stories-2",
+        "title":"Heartfelt, passionate love stories that stir deep emotions",
+        "price":0,
+        "category":"free",
+         "image":"https://img.freepik.com/free-photo/notebook-with-black-cover_23-2147803582.jpg?t=st=1721058419~exp=1721062019~hmac=993f8406b8f239a59c54be206a35f5cb0649dc140e90dae61485a1ea72c7bdf4&w=1060"
+    }
+    
+    
+]
